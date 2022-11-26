@@ -1,5 +1,7 @@
 # TUIASI_Homework
 
+This repository acts as an archive for some of the projects I worked on in university (Faculty of Automatic Control and Computer Engineering, TUIași)
+
 * BD = Baze de Date
     * (attempt at an) Explorer / editor for a preset database in Python + Tkinter
 * IP = Ingineria Programării
