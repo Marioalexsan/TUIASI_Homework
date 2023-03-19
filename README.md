@@ -17,3 +17,5 @@ This repository acts as an archive for some of the projects I worked on in unive
     * Temperature and humidity measurement using a Raspberry Pi Pico
 * Coffee3D = Sisteme de Prelucrare Grafică
     * OpenGL framework for simple 3D rendering
+* SmartCalculator = Inteligență Artificială
+    * A simple calculator that finds solutions for certain equations using Differential Evolution.
