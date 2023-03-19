@@ -15,3 +15,5 @@ This repository acts as an archive for some of the projects I worked on in unive
     * In collaboration with Chelarașu Elena
 * SM = Sisteme cu Microprocesoare
     * Temperature and humidity measurement using a Raspberry Pi Pico
+* Coffee3D = Sisteme de Prelucrare Grafică
+    * OpenGL framework for simple 3D rendering
